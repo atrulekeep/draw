@@ -16,8 +16,13 @@
         <mxCell id="NyQ6LVvCY6I2mj-fdIIg-4" parent="NyQ6LVvCY6I2mj-fdIIg-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="DataV-低代码" vertex="1">
           <mxGeometry height="30" width="140" y="90" as="geometry" />
         </mxCell>
+        <mxCell id="mJ85yA7coEAXMIR_J0yc-19" edge="1" parent="1" source="NyQ6LVvCY6I2mj-fdIIg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NyQ6LVvCY6I2mj-fdIIg-6" parent="1" style="whiteSpace=wrap;html=1;" value="自然语言入口" vertex="1">
-          <mxGeometry height="15" width="80" x="160" y="452.5" as="geometry" />
+          <mxGeometry height="17.5" width="80" x="160" y="450" as="geometry" />
         </mxCell>
         <mxCell id="mJ85yA7coEAXMIR_J0yc-10" edge="1" parent="1" source="NyQ6LVvCY6I2mj-fdIIg-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
@@ -93,6 +98,9 @@
         </mxCell>
         <mxCell id="mJ85yA7coEAXMIR_J0yc-8" edge="1" parent="1" source="NyQ6LVvCY6I2mj-fdIIg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="NyQ6LVvCY6I2mj-fdIIg-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ85yA7coEAXMIR_J0yc-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="根据账号判断权限控制" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
