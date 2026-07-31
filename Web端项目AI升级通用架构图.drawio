@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="VVVHTyextlwRXQPnzCYE">
-    <mxGraphModel dx="1163" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1386" dy="986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,16 +75,13 @@
           <mxGeometry height="60" width="120" x="60" y="60" as="geometry" />
         </mxCell>
         <mxCell id="NyQ6LVvCY6I2mj-fdIIg-12" parent="mJ85yA7coEAXMIR_J0yc-3" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="MCP" vertex="1">
-          <mxGeometry height="120" width="166" x="60" y="170" as="geometry" />
+          <mxGeometry height="90" width="166" x="60" y="170" as="geometry" />
         </mxCell>
         <mxCell id="NyQ6LVvCY6I2mj-fdIIg-13" parent="NyQ6LVvCY6I2mj-fdIIg-12" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="混元大模型-》三维模型" vertex="1">
           <mxGeometry height="30" width="166" y="30" as="geometry" />
         </mxCell>
         <mxCell id="NyQ6LVvCY6I2mj-fdIIg-14" parent="NyQ6LVvCY6I2mj-fdIIg-12" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Jenkins:c++ Java SDK Web" vertex="1">
           <mxGeometry height="30" width="166" y="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NyQ6LVvCY6I2mj-fdIIg-15" parent="NyQ6LVvCY6I2mj-fdIIg-12" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Item 3" vertex="1">
-          <mxGeometry height="30" width="166" y="90" as="geometry" />
         </mxCell>
         <mxCell id="NyQ6LVvCY6I2mj-fdIIg-16" parent="mJ85yA7coEAXMIR_J0yc-3" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Tools" vertex="1">
           <mxGeometry height="120" width="140" x="250" y="170" as="geometry" />
